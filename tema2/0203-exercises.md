@@ -45,6 +45,8 @@ encontramos un término falso.
 En caso de expresiones `||` (_or_ u _o_), la evaluación termina tan pronto como
 encontramos un término verdadero.
 
+Este [vídeo](https://www.destroyallsoftware.com/talks/wat) presenta en clave cómica lo complejo que es a veces adivinar el valor al que evalúa una expresión Javascript. WAT!
+
 **3. El resultado de las expresiones booleanas.**
 
 Contra el sentido común, el resultado de una expresión booleana no es un
